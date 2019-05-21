@@ -1,0 +1,1 @@
+prediction1、prediction2和prediction3分别表示用XGBoost和xgboost、 logistic regression、 random forest预测的测试数据的label
