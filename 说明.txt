@@ -1,1 +1,1 @@
-predprob1和predprob2都是有XGBoost获得的模型，丢一个没经过特征筛选，第二个经过了特征筛选。
+predprob1和predprob2都是有XGBoost获得的模型，第一个没经过特征筛选第二个经过特征筛选。
