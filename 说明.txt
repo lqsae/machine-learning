@@ -1,1 +1,1 @@
-prediction_xgb、prediction_lr和prediction_rf分别表示用XGBoost和xgboost、 logistic regression、 random forest预测的测试数据的label 最后一题答案在data.csv文件里。
+predprob1和predprob2都是有XGBoost获得的模型，丢一个没经过特征筛选，第二个经过了特征筛选。
